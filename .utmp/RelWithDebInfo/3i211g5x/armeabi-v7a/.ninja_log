@@ -1,0 +1,12 @@
+# ninja log v5
+66	293	7573424209998400	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	198ed9fbf4e15de
+295	534	7573424212409468	E:/Unity/LITTLE WARS/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3i211g5x/obj/armeabi-v7a/libswappywrapper.so	5b8151e98302998a
+31	1189	7573424218867466	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b99727d942ac7455
+9	1195	7573424218952755	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	74c29559b47ad34f
+39	1208	7573424219089363	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e0131d593db115f6
+47	1283	7573424219852379	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	cadad6245c0ca720
+56	1520	7573424221282603	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3d57b913579543e2
+16	1523	7573424221292608	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	de9547d1119f0c51
+23	1600	7573424223086679	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	9698f5a55236e8da
+2	1754	7573424224595977	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	9d2a9569e5acf938
+1754	1901	7573424226101777	E:/Unity/LITTLE WARS/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3i211g5x/obj/armeabi-v7a/libgame.so	eec65266a11c43e0
